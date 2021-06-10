@@ -13,9 +13,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Pedro Luís Brilhadori
 
-Olá! Eu me chamo Pedro, e sou estudante de Análise e Desenvolvimento de Sistemas, na Fatec Ribeirão Preto. 
+[![Pedro's stats])
+
+ <div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroLuisBrilhadori&theme=chartreuse-dark&show_icons=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLuisBrilhadori&theme=chartreuse-dark&count=16" />
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Pedro-Cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
+</div>
+
+# Olá, eu sou o Pedro Luís Brilhadori
+
+Sou estudante de Análise e Desenvolvimento de Sistemas, na Fatec Ribeirão Preto. 
 Amo tecnologia, e gosto muito de aprender sobre tudo. 
 
 Atualmente estou estudando Javascript, e C++; 
@@ -23,14 +37,6 @@ Atualmente estou estudando Javascript, e C++;
 
 
 
-[![Pedro's stats])
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PedroLuisBrilhadori&theme=chartreuse-dark&show_icons=true&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLuisBrilhadori&theme=chartreuse-dark&count=4" />
-</a>
 
 
 
