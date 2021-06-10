@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 
-# Pedro Stats!
+# Stats
  <div>
   <a href="https://github.com/PedroLuisBrilhadori">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroLuisBrilhadori&theme=chartreuse-dark&show_icons=true&count_private=true"/>
