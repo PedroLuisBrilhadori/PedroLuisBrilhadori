@@ -15,6 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Pedro Luís Brilhadori
+
+Olá! Eu me chamo Pedro, e sou estudante de Análise e Desenvolvimento de Sistemas, na Fatec Ribeirão Preto. 
+Amo tecnologia, e gosto muito de aprender sobre tudo. 
 
 
-[![Pedro's stats](https://github-readme-stats.vercel.app/api?username=PedroLuisBrilhadori&theme=dark&show_icons=true&count_private=true)](https://github.com/felipefialho)
+
+
+
+[![Pedro's stats](https://github-readme-stats.vercel.app/api?username=PedroLuisBrilhadori&theme=chartreuse-dark&show_icons=true&count_private=true)](https://github.com/felipefialho)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLuisBrilhadori)](https://github.com/anuraghazra/github-readme-stats)
