@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Olá, eu sou o Pedro Luís Brilhadori
+# Olá, eu sou o Pedro Luís Brilhadori!
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, na Fatec Ribeirão Preto. 
 Amo tecnologia, e gosto muito de aprender sobre tudo. 
