@@ -33,7 +33,7 @@ Atualmente estou estudando Javascript, e C++;
  <div>
   <a href="https://github.com/PedroLuisBrilhadori">
   <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=PedroLuisBrilhadori&theme=chartreuse-dark&show_icons=true&count_private=true"/>
-  <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLuisBrilhadori&theme=chartreuse-dark&count=16" />
+  <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLuisBrilhadori&layout=compact&theme=chartreuse-dark&count=16" />
 </div>
 
 
