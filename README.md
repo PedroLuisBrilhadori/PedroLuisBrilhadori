@@ -21,6 +21,8 @@ Amo tecnologia, e gosto muito de aprender sobre tudo.
 
 Atualmente estou estudando Javascript, e C++; 
 
+git.io/JZZOW
+
 # Stats
 <div style="display: inline_block"><br>
   <a href="https://github.com/PedroLuisBrilhadori">
