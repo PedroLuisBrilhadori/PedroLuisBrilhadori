@@ -23,6 +23,7 @@ Atualmente estou estudando Javascript, e C++;
 
 # Stats
 <div style="display: inline_block"><br>
+  <a href="https://github.com/PedroLuisBrilhadori">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
