@@ -26,7 +26,7 @@ Atualmente estou estudando Javascript, e C++;
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
-</div>
+</div><br>
 
  <div>
   <a href="https://github.com/PedroLuisBrilhadori">
