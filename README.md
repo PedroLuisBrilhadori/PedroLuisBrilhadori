@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Sou estudante de Análise e Desenvolvimento de Sistemas, na Fatec Ribeirão Preto. 
 Amo tecnologia, e gosto muito de aprender sobre tudo. 
 
-Atualmente estou estudando Javascript, e C++; 
+Atualmente estou estudando Javascript e C++; 
 
 
 # Stats
