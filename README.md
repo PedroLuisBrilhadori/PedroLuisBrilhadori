@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 <h1> Olá, eu sou o Pedro Luís Brilhadori! </h1>
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, na Fatec Ribeirão Preto. 
-Amo tecnologia, e gosto muito de aprender sobre tudo. 
+Sou estudante de Análise e Desenvolvimento de Sistemas> Ma Fatec Ribeirão Preto. 
+Amo tecnologia, e gosto muito de aprender :) 
 
 Atualmente estou estudando Javascript e C++; 
 
