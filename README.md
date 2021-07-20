@@ -16,17 +16,17 @@ Here are some ideas to get you started:
 
 <h1> Olá, eu sou o Pedro Luís Brilhadori! </h1>
 
-Sou estudante de Análise e Desenvolvimento de Sistemas> Ma Fatec Ribeirão Preto. 
+Sou estudante de Análise e Desenvolvimento de Sistemas, Na Fatec Ribeirão Preto. 
 Amo tecnologia, e gosto muito de aprender :) 
 
-Atualmente estou estudando Javascript e C++; 
 
 
 # Stats
 <div style="display: inline_block">
   <a href="https://github.com/PedroLuisBrilhadori">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
 </div><br>
 
