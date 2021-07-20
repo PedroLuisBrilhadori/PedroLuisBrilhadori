@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1> Olá, eu sou o Pedro Luís Brilhadori! </h1>
+<h1> Olá, sou Pedro Luís Brilhadori! </h1>
 
 - Estudante de Análise e Desenvolvimento de Sistemas | Fatec Ribeirão Preto. <br>
 - Estagiário Front End | AgroTI 🌱<br>
