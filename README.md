@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1> Hello, i'm Pedro Luís Brilhadori! </h1>
+<h1> Hello, I'm Pedro Luís Brilhadori! </h1>
 
 - I'm systems analysis and development student in Fatec Ribeirão Preto. <br>
 - Front End developer in AgroTI 🌱<br>
