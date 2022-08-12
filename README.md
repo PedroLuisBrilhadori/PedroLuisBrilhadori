@@ -22,8 +22,9 @@ Here are some ideas to get you started:
 
 <div align="center">
   <div> 
-    <h3>  Frameworks: </h3>
+    <h3>  Frameworks & Libs: </h3>
 
+ ![Vue](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![ReactJS](https://img.shields.io/badge/react-C.svg?style=for-the-badge&logo=react&color=282C34)
 ![Angular](https://img.shields.io/badge/angular-C.svg?style=for-the-badge&logo=angular&color=DD0031)
 
