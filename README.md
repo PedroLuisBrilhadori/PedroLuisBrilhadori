@@ -27,12 +27,14 @@ Here are some ideas to get you started:
  ![Vue](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![ReactJS](https://img.shields.io/badge/react-C.svg?style=for-the-badge&logo=react&color=282C34)
 ![Angular](https://img.shields.io/badge/angular-C.svg?style=for-the-badge&logo=angular&color=DD0031)
+![Flutter](https://img.shields.io/badge/flutter-C.svg?style=for-the-badge&logo=flutter&color=2d7dda)
 
   <h3> Languages:</h3>
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=FFFFFF&color=2F74C0)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=000000&color=%23F7DF1E)
 ![Cplusplus](https://img.shields.io/badge/c++-%23323330.svg?style=for-the-badge&logo=cplusplus&logoColor=649AD2&color=004482)
+![Dart](https://img.shields.io/badge/dart-%23323330.svg?style=for-the-badge&logo=dart&logoColor=649AD2&color=1c2834)
 
 <h3> operating systems: </h3>
 
