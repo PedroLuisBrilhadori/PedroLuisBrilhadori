@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Hello, I'm Pedro Luís Brilhadori!
 
 - I'm student of systems analysis and development at Fatec Ribeirão Preto.
-- Front End developer at AgroTI 🌱
+- FullStack Developer. 
 
 # 🛠 My tools
 
@@ -24,17 +24,14 @@ Here are some ideas to get you started:
   <div> 
     <h3>  Frameworks & Libs: </h3>
 
- ![Vue](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![ReactJS](https://img.shields.io/badge/react-C.svg?style=for-the-badge&logo=react&color=282C34)
+![NestJS](https://img.shields.io/badge/NestJS-0e0e10?style=for-the-badge&logo=nestjs&logoColor=e0234e)
 ![Angular](https://img.shields.io/badge/angular-C.svg?style=for-the-badge&logo=angular&color=DD0031)
-![Flutter](https://img.shields.io/badge/flutter-C.svg?style=for-the-badge&logo=flutter&color=2d7dda)
+![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
   <h3> Languages:</h3>
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=FFFFFF&color=2F74C0)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=000000&color=%23F7DF1E)
-![Cplusplus](https://img.shields.io/badge/c++-%23323330.svg?style=for-the-badge&logo=cplusplus&logoColor=649AD2&color=004482)
-![Dart](https://img.shields.io/badge/dart-%23323330.svg?style=for-the-badge&logo=dart&logoColor=649AD2&color=1c2834)
 
 <h3> operating systems: </h3>
 
