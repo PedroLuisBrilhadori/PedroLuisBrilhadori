@@ -25,8 +25,8 @@ Here are some ideas to get you started:
     <h3>  Frameworks & Libs: </h3>
 
 ![NestJS](https://img.shields.io/badge/NestJS-0e0e10?style=for-the-badge&logo=nestjs&logoColor=e0234e)
-![Angular](https://img.shields.io/badge/angular-C.svg?style=for-the-badge&logo=angular&color=DD0031)
-![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-0e0e10?style=for-the-badge&logo=angular&logoColor=e0234e)
+![NextJS](https://img.shields.io/badge/next.js-0e0e10?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
   <h3> Languages:</h3>
 
