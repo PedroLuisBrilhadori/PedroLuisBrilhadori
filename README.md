@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 
 # 🛠 My tools
 
-<div align="center">
-  <div> 
-    <h3>  Frameworks & Libs: </h3>
+<h3>  Frameworks & Libs: </h3>
 
 ![NestJS](https://img.shields.io/badge/NestJS-0e0e10?style=for-the-badge&logo=nestjs&logoColor=e0234e)
 ![Angular](https://img.shields.io/badge/Angular-0e0e10?style=for-the-badge&logo=angular&logoColor=e0234e)
@@ -45,17 +43,6 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-C.svg?style=for-the-badge&logo=figma&color=fff)
 
-  </div>
-</div>
 
 # 🎶 Music
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=224q2vjpt23ekx7aupbkqalni&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true%22">
-</div>
-
-# ⚡Github Streak
-
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=PedroLuisBrilhadori&theme=neon-dark&hide_border=true&background=DD272700">
-</div>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=224q2vjpt23ekx7aupbkqalni&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
