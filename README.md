@@ -84,8 +84,8 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/PedroLuisBrilhadori?tab=overview"> 
-    <img width="50%" alt="PedroLuisBrilhadori" src="https://github-readme-stats.vercel.app/api?username=PedroLuisBrilhadori&theme=transparent&bg_color=000&border_color=191970&show_icons=true&icon_color=00CED1&title_color=00CED1&text_color=FFF"/>
-    <img width="38%" alt="Top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLuisBrilhadori&layout=compact"/>
+    <img width="50%" alt="PedroLuisBrilhadori" src="https://github-readme-stats.vercel.app/api?username=PedroLuisBrilhadori&theme=transparent&bg_color=000&border_color=191970&show_icons=true&icon_color=00CED1&title_color=00CED1&text_color=FFF&v=1"/>
+    <img width="38%" alt="Top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLuisBrilhadori&layout=compact&v=1"/>
   </a>
 </div> 
 
